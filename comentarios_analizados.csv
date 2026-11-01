@@ -1,0 +1,396 @@
+id_comentario,publicacion,usuario,comentario,largo,puntaje,sentimiento
+1,1,usuario_408,Las medialunas estaban duras,28,0.023,Negativo
+2,1,usuario_591,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+3,1,usuario_485,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+4,1,usuario_260,"Atención de primera, gracias",28,0.735,Positivo
+5,1,usuario_121,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+6,1,usuario_574,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+7,1,usuario_575,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+8,1,usuario_975,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+9,1,usuario_931,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+10,1,usuario_918,Subieron todo de precio otra vez,32,0.008,Negativo
+11,1,usuario_940,Subieron todo de precio otra vez,32,0.008,Negativo
+12,1,usuario_487,El mejor café de la zona,24,0.914,Positivo
+13,1,usuario_876,El mejor café de la zona,24,0.914,Positivo
+14,1,usuario_997,"Atención de primera, gracias",28,0.735,Positivo
+15,1,usuario_527,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+16,1,usuario_305,"El café estaba frío, muy mal",28,0.006,Negativo
+17,1,usuario_661,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+18,1,usuario_489,Carísimo para lo que es,23,0.01,Negativo
+19,1,usuario_871,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+20,1,usuario_829,El mejor café de la zona,24,0.914,Positivo
+21,1,usuario_301,El mejor café de la zona,24,0.914,Positivo
+22,1,usuario_369,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+24,1,usuario_819,"Atención de primera, gracias",28,0.735,Positivo
+25,1,usuario_891,"Atención de primera, gracias",28,0.735,Positivo
+26,1,usuario_863,A qué hora abren los domingos,29,0.034,Negativo
+27,1,usuario_256,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+28,1,usuario_956,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+29,1,usuario_443,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+30,1,usuario_571,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+31,1,usuario_692,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+32,1,usuario_518,"El café estaba frío, muy mal",28,0.006,Negativo
+33,1,usuario_589,"Atención de primera, gracias",28,0.735,Positivo
+34,1,usuario_300,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+35,1,usuario_132,El mejor café de la zona,24,0.914,Positivo
+36,1,usuario_506,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+37,1,usuario_904,El capuccino estaba perfecto,28,0.886,Positivo
+39,1,usuario_838,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+40,1,usuario_868,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+41,1,usuario_602,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+42,1,usuario_894,Mucho ruido y las mesas sucias,30,0.004,Negativo
+43,1,usuario_653,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+44,1,usuario_674,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+47,1,usuario_754,Cuánto sale el café con leche,29,0.061,Negativo
+48,1,usuario_624,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+49,1,usuario_798,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+50,1,usuario_781,El mejor café de la zona,24,0.914,Positivo
+51,1,usuario_745,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+52,1,usuario_897,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+53,1,usuario_447,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+54,2,usuario_289,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+56,2,usuario_727,A qué hora abren los domingos,29,0.034,Negativo
+57,2,usuario_358,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+58,2,usuario_510,El capuccino estaba perfecto,28,0.886,Positivo
+59,2,usuario_324,Subieron todo de precio otra vez,32,0.008,Negativo
+60,2,usuario_783,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+61,2,usuario_473,Tienen opciones sin TACC,24,0.22,Negativo
+62,2,usuario_332,El capuccino estaba perfecto,28,0.886,Positivo
+63,2,usuario_929,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+64,2,usuario_367,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+65,2,usuario_486,El mejor café de la zona,24,0.914,Positivo
+66,2,usuario_798,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+67,2,usuario_319,Carísimo para lo que es,23,0.01,Negativo
+68,2,usuario_835,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+70,2,usuario_783,Subieron todo de precio otra vez,32,0.008,Negativo
+71,2,usuario_515,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+72,2,usuario_302,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+73,2,usuario_866,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+74,2,usuario_936,El capuccino estaba perfecto,28,0.886,Positivo
+76,2,usuario_300,A qué hora abren los domingos,29,0.034,Negativo
+77,2,usuario_563,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+78,2,usuario_759,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+79,2,usuario_502,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+80,2,usuario_610,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+81,2,usuario_963,Dónde queda esta sucursal,25,0.041,Negativo
+82,2,usuario_588,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+83,2,usuario_739,El capuccino estaba perfecto,28,0.886,Positivo
+84,2,usuario_971,El mejor café de la zona,24,0.914,Positivo
+85,2,usuario_572,"Una decepción, esperaba más",27,0.009,Negativo
+86,2,usuario_514,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+87,2,usuario_710,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+88,2,usuario_723,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+89,2,usuario_101,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+90,2,usuario_136,Subieron todo de precio otra vez,32,0.008,Negativo
+91,2,usuario_108,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+93,3,usuario_503,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+94,3,usuario_727,A qué hora abren los domingos,29,0.034,Negativo
+95,3,usuario_519,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+96,3,usuario_951,El capuccino estaba perfecto,28,0.886,Positivo
+98,3,usuario_995,Cuánto sale el café con leche,29,0.061,Negativo
+99,3,usuario_921,El mejor café de la zona,24,0.914,Positivo
+100,3,usuario_260,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+101,3,usuario_497,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+102,3,usuario_603,Dónde queda esta sucursal,25,0.041,Negativo
+103,3,usuario_294,Mucho ruido y las mesas sucias,30,0.004,Negativo
+104,3,usuario_787,A qué hora abren los domingos,29,0.034,Negativo
+105,3,usuario_569,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+106,3,usuario_662,Cuánto sale el café con leche,29,0.061,Negativo
+107,3,usuario_382,El capuccino estaba perfecto,28,0.886,Positivo
+108,3,usuario_376,Hacen delivery,14,0.115,Negativo
+109,3,usuario_383,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+110,3,usuario_552,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+111,3,usuario_615,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+112,3,usuario_611,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+113,3,usuario_319,Dónde queda esta sucursal,25,0.041,Negativo
+114,3,usuario_617,"Atención de primera, gracias",28,0.735,Positivo
+116,3,usuario_448,El capuccino estaba perfecto,28,0.886,Positivo
+117,3,usuario_706,"Atención de primera, gracias",28,0.735,Positivo
+119,3,usuario_260,"Atención de primera, gracias",28,0.735,Positivo
+120,3,usuario_892,El mejor café de la zona,24,0.914,Positivo
+122,3,usuario_725,El capuccino estaba perfecto,28,0.886,Positivo
+123,3,usuario_762,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+124,3,usuario_485,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+125,4,usuario_203,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+126,4,usuario_910,"Una decepción, esperaba más",27,0.009,Negativo
+127,4,usuario_576,Mucho ruido y las mesas sucias,30,0.004,Negativo
+128,4,usuario_637,Mucho ruido y las mesas sucias,30,0.004,Negativo
+130,4,usuario_924,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+131,4,usuario_420,"Pésima atención, no vuelvo más",30,0.011,Negativo
+132,4,usuario_570,"El café estaba frío, muy mal",28,0.006,Negativo
+133,4,usuario_933,Carísimo para lo que es,23,0.01,Negativo
+134,4,usuario_953,Mucho ruido y las mesas sucias,30,0.004,Negativo
+135,4,usuario_797,"Una decepción, esperaba más",27,0.009,Negativo
+136,4,usuario_249,Cuánto sale el café con leche,29,0.061,Negativo
+137,4,usuario_441,Hacen delivery,14,0.115,Negativo
+138,4,usuario_781,"Pésima atención, no vuelvo más",30,0.011,Negativo
+139,4,usuario_543,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+141,4,usuario_295,Mucho ruido y las mesas sucias,30,0.004,Negativo
+142,4,usuario_449,"Pésima atención, no vuelvo más",30,0.011,Negativo
+143,4,usuario_922,"El café estaba frío, muy mal",28,0.006,Negativo
+144,4,usuario_755,"Pésima atención, no vuelvo más",30,0.011,Negativo
+145,4,usuario_735,Carísimo para lo que es,23,0.01,Negativo
+146,4,usuario_756,"El café estaba frío, muy mal",28,0.006,Negativo
+147,4,usuario_703,Tienen opciones sin TACC,24,0.22,Negativo
+148,4,usuario_840,Hacen delivery,14,0.115,Negativo
+149,4,usuario_929,"Atención de primera, gracias",28,0.735,Positivo
+150,4,usuario_740,"Una decepción, esperaba más",27,0.009,Negativo
+151,4,usuario_612,Hacen delivery,14,0.115,Negativo
+152,4,usuario_659,Las medialunas estaban duras,28,0.023,Negativo
+153,4,usuario_336,El capuccino estaba perfecto,28,0.886,Positivo
+154,4,usuario_803,Mucho ruido y las mesas sucias,30,0.004,Negativo
+155,4,usuario_889,Cuánto sale el café con leche,29,0.061,Negativo
+156,4,usuario_175,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+157,4,usuario_185,"El café estaba frío, muy mal",28,0.006,Negativo
+158,4,usuario_319,Cuánto sale el café con leche,29,0.061,Negativo
+159,4,usuario_193,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+160,4,usuario_552,Dónde queda esta sucursal,25,0.041,Negativo
+161,4,usuario_573,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+162,4,usuario_650,Subieron todo de precio otra vez,32,0.008,Negativo
+164,4,usuario_122,"Atención de primera, gracias",28,0.735,Positivo
+165,4,usuario_936,Las medialunas estaban duras,28,0.023,Negativo
+168,4,usuario_707,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+169,4,usuario_424,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+170,5,usuario_435,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+171,5,usuario_995,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+172,5,usuario_763,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+173,5,usuario_774,Carísimo para lo que es,23,0.01,Negativo
+174,5,usuario_790,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+175,5,usuario_367,"Atención de primera, gracias",28,0.735,Positivo
+176,5,usuario_516,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+177,5,usuario_142,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+178,5,usuario_352,El mejor café de la zona,24,0.914,Positivo
+179,5,usuario_948,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+180,5,usuario_704,El capuccino estaba perfecto,28,0.886,Positivo
+181,5,usuario_701,Hacen delivery,14,0.115,Negativo
+182,5,usuario_716,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+183,5,usuario_925,"Pésima atención, no vuelvo más",30,0.011,Negativo
+184,5,usuario_519,El capuccino estaba perfecto,28,0.886,Positivo
+185,5,usuario_860,"Atención de primera, gracias",28,0.735,Positivo
+186,5,usuario_968,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+187,5,usuario_291,El capuccino estaba perfecto,28,0.886,Positivo
+189,5,usuario_195,El mejor café de la zona,24,0.914,Positivo
+190,5,usuario_879,Cuánto sale el café con leche,29,0.061,Negativo
+191,5,usuario_316,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+193,5,usuario_161,A qué hora abren los domingos,29,0.034,Negativo
+194,5,usuario_441,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+195,5,usuario_276,"El café estaba frío, muy mal",28,0.006,Negativo
+197,5,usuario_364,Dónde queda esta sucursal,25,0.041,Negativo
+198,5,usuario_950,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+199,5,usuario_168,Cuánto sale el café con leche,29,0.061,Negativo
+201,5,usuario_583,"Atención de primera, gracias",28,0.735,Positivo
+202,5,usuario_243,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+203,5,usuario_208,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+204,5,usuario_285,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+205,5,usuario_232,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+206,5,usuario_832,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+207,5,usuario_850,El mejor café de la zona,24,0.914,Positivo
+208,5,usuario_173,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+209,5,usuario_352,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+210,5,usuario_269,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+211,5,usuario_894,Carísimo para lo que es,23,0.01,Negativo
+212,5,usuario_128,"Atención de primera, gracias",28,0.735,Positivo
+213,6,usuario_438,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+214,6,usuario_441,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+215,6,usuario_400,A qué hora abren los domingos,29,0.034,Negativo
+216,6,usuario_169,"Pésima atención, no vuelvo más",30,0.011,Negativo
+217,6,usuario_544,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+218,6,usuario_190,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+219,6,usuario_630,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+220,6,usuario_272,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+221,6,usuario_319,Carísimo para lo que es,23,0.01,Negativo
+222,6,usuario_575,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+223,6,usuario_100,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+224,6,usuario_290,"Una decepción, esperaba más",27,0.009,Negativo
+225,6,usuario_216,A qué hora abren los domingos,29,0.034,Negativo
+226,6,usuario_655,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+227,6,usuario_179,"Atención de primera, gracias",28,0.735,Positivo
+228,6,usuario_775,"Atención de primera, gracias",28,0.735,Positivo
+230,6,usuario_146,El mejor café de la zona,24,0.914,Positivo
+231,6,usuario_472,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+232,6,usuario_358,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+233,6,usuario_111,A qué hora abren los domingos,29,0.034,Negativo
+234,6,usuario_457,El capuccino estaba perfecto,28,0.886,Positivo
+235,6,usuario_767,El capuccino estaba perfecto,28,0.886,Positivo
+236,6,usuario_447,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+237,6,usuario_747,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+238,6,usuario_639,El mejor café de la zona,24,0.914,Positivo
+239,6,usuario_140,"Atención de primera, gracias",28,0.735,Positivo
+241,6,usuario_300,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+242,6,usuario_823,"Atención de primera, gracias",28,0.735,Positivo
+243,6,usuario_352,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+244,6,usuario_982,Carísimo para lo que es,23,0.01,Negativo
+245,6,usuario_549,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+246,6,usuario_897,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+247,6,usuario_900,Mucho ruido y las mesas sucias,30,0.004,Negativo
+248,6,usuario_323,El mejor café de la zona,24,0.914,Positivo
+249,6,usuario_381,"Atención de primera, gracias",28,0.735,Positivo
+250,6,usuario_953,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+251,6,usuario_560,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+252,6,usuario_204,El mejor café de la zona,24,0.914,Positivo
+254,6,usuario_575,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+255,6,usuario_962,"Atención de primera, gracias",28,0.735,Positivo
+256,6,usuario_870,Las medialunas estaban duras,28,0.023,Negativo
+257,6,usuario_664,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+258,6,usuario_557,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+259,6,usuario_184,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+260,7,usuario_977,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+261,7,usuario_784,"El café estaba frío, muy mal",28,0.006,Negativo
+262,7,usuario_545,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+263,7,usuario_587,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+264,7,usuario_447,El mejor café de la zona,24,0.914,Positivo
+266,7,usuario_217,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+267,7,usuario_367,Carísimo para lo que es,23,0.01,Negativo
+268,7,usuario_335,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+269,7,usuario_500,"Una decepción, esperaba más",27,0.009,Negativo
+270,7,usuario_306,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+271,7,usuario_174,El mejor café de la zona,24,0.914,Positivo
+272,7,usuario_521,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+273,7,usuario_905,El mejor café de la zona,24,0.914,Positivo
+274,7,usuario_949,El mejor café de la zona,24,0.914,Positivo
+275,7,usuario_546,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+277,7,usuario_434,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+278,7,usuario_205,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+279,7,usuario_232,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+280,7,usuario_237,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+281,7,usuario_429,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+282,7,usuario_951,Dónde queda esta sucursal,25,0.041,Negativo
+283,7,usuario_645,"Atención de primera, gracias",28,0.735,Positivo
+284,7,usuario_549,Subieron todo de precio otra vez,32,0.008,Negativo
+285,7,usuario_210,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+286,7,usuario_473,Tienen opciones sin TACC,24,0.22,Negativo
+287,7,usuario_459,Dónde queda esta sucursal,25,0.041,Negativo
+288,7,usuario_380,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+289,7,usuario_766,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+290,7,usuario_160,El mejor café de la zona,24,0.914,Positivo
+291,7,usuario_888,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+292,7,usuario_703,Carísimo para lo que es,23,0.01,Negativo
+293,7,usuario_504,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+294,7,usuario_744,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+295,8,usuario_145,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+296,8,usuario_177,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+297,8,usuario_893,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+298,8,usuario_313,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+299,8,usuario_125,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+300,8,usuario_107,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+302,8,usuario_825,El capuccino estaba perfecto,28,0.886,Positivo
+303,8,usuario_127,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+304,8,usuario_485,El capuccino estaba perfecto,28,0.886,Positivo
+305,8,usuario_411,Tienen opciones sin TACC,24,0.22,Negativo
+306,8,usuario_722,"El café estaba frío, muy mal",28,0.006,Negativo
+307,8,usuario_850,Tienen opciones sin TACC,24,0.22,Negativo
+308,8,usuario_905,Hacen delivery,14,0.115,Negativo
+310,8,usuario_730,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+311,8,usuario_138,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+312,8,usuario_330,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+313,8,usuario_225,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+314,8,usuario_244,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+315,8,usuario_124,"Pésima atención, no vuelvo más",30,0.011,Negativo
+316,8,usuario_166,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+317,8,usuario_210,Dónde queda esta sucursal,25,0.041,Negativo
+318,8,usuario_722,El mejor café de la zona,24,0.914,Positivo
+319,8,usuario_468,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+320,8,usuario_524,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+321,8,usuario_381,"Pésima atención, no vuelvo más",30,0.011,Negativo
+322,8,usuario_542,El mejor café de la zona,24,0.914,Positivo
+323,8,usuario_840,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+324,8,usuario_761,"Atención de primera, gracias",28,0.735,Positivo
+325,8,usuario_449,Dónde queda esta sucursal,25,0.041,Negativo
+326,8,usuario_922,El capuccino estaba perfecto,28,0.886,Positivo
+327,8,usuario_998,Mucho ruido y las mesas sucias,30,0.004,Negativo
+328,8,usuario_328,El capuccino estaba perfecto,28,0.886,Positivo
+329,8,usuario_322,El capuccino estaba perfecto,28,0.886,Positivo
+330,9,usuario_567,Carísimo para lo que es,23,0.01,Negativo
+331,9,usuario_946,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+332,9,usuario_980,Las medialunas estaban duras,28,0.023,Negativo
+333,9,usuario_673,El capuccino estaba perfecto,28,0.886,Positivo
+334,9,usuario_946,Hacen delivery,14,0.115,Negativo
+335,9,usuario_125,El capuccino estaba perfecto,28,0.886,Positivo
+336,9,usuario_425,Subieron todo de precio otra vez,32,0.008,Negativo
+337,9,usuario_935,Las medialunas estaban duras,28,0.023,Negativo
+338,9,usuario_324,"Pésima atención, no vuelvo más",30,0.011,Negativo
+339,9,usuario_239,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+340,9,usuario_189,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+341,9,usuario_904,Las medialunas estaban duras,28,0.023,Negativo
+342,9,usuario_944,"Pésima atención, no vuelvo más",30,0.011,Negativo
+343,9,usuario_789,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+344,9,usuario_749,Subieron todo de precio otra vez,32,0.008,Negativo
+345,9,usuario_112,Carísimo para lo que es,23,0.01,Negativo
+346,9,usuario_695,Carísimo para lo que es,23,0.01,Negativo
+347,9,usuario_428,Cuánto sale el café con leche,29,0.061,Negativo
+348,9,usuario_649,"Una decepción, esperaba más",27,0.009,Negativo
+349,9,usuario_680,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+350,9,usuario_335,Dónde queda esta sucursal,25,0.041,Negativo
+351,9,usuario_475,Subieron todo de precio otra vez,32,0.008,Negativo
+352,9,usuario_687,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+354,9,usuario_671,Las medialunas estaban duras,28,0.023,Negativo
+355,9,usuario_939,Cuánto sale el café con leche,29,0.061,Negativo
+356,9,usuario_328,"Una decepción, esperaba más",27,0.009,Negativo
+357,9,usuario_824,"El café estaba frío, muy mal",28,0.006,Negativo
+358,9,usuario_950,Subieron todo de precio otra vez,32,0.008,Negativo
+359,9,usuario_673,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+360,9,usuario_848,"Una decepción, esperaba más",27,0.009,Negativo
+361,9,usuario_501,"Una decepción, esperaba más",27,0.009,Negativo
+362,9,usuario_394,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+363,9,usuario_736,"El café estaba frío, muy mal",28,0.006,Negativo
+364,9,usuario_122,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+365,9,usuario_764,A qué hora abren los domingos,29,0.034,Negativo
+366,9,usuario_602,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+367,9,usuario_715,Cuánto sale el café con leche,29,0.061,Negativo
+368,9,usuario_297,Mucho ruido y las mesas sucias,30,0.004,Negativo
+369,9,usuario_490,"El café estaba frío, muy mal",28,0.006,Negativo
+370,9,usuario_653,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+371,9,usuario_114,Dónde queda esta sucursal,25,0.041,Negativo
+372,9,usuario_577,Esperé 40 minutos y nunca me atendieron,39,0.006,Negativo
+373,9,usuario_256,"Pésima atención, no vuelvo más",30,0.011,Negativo
+374,9,usuario_196,"Una decepción, esperaba más",27,0.009,Negativo
+375,9,usuario_388,Mucho ruido y las mesas sucias,30,0.004,Negativo
+376,9,usuario_933,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+377,9,usuario_734,Subieron todo de precio otra vez,32,0.008,Negativo
+378,10,usuario_217,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+379,10,usuario_976,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+380,10,usuario_795,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+381,10,usuario_360,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+382,10,usuario_943,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+383,10,usuario_510,El mejor café de la zona,24,0.914,Positivo
+385,10,usuario_893,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+386,10,usuario_759,"Atención de primera, gracias",28,0.735,Positivo
+387,10,usuario_971,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+388,10,usuario_811,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+389,10,usuario_401,Hacen delivery,14,0.115,Negativo
+390,10,usuario_240,Tardaron muchísimo en traer el pedido,37,0.006,Negativo
+391,10,usuario_722,El mejor café de la zona,24,0.914,Positivo
+392,10,usuario_423,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+393,10,usuario_904,Pedí sin azúcar y me lo trajeron con azúcar,43,0.018,Negativo
+394,10,usuario_703,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+395,10,usuario_150,Me fascina el aroma del café de ustedes,39,0.969,Positivo
+396,10,usuario_396,El capuccino estaba perfecto,28,0.886,Positivo
+397,10,usuario_868,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+398,10,usuario_504,"Atención de primera, gracias",28,0.735,Positivo
+399,10,usuario_281,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+400,10,usuario_100,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+401,10,usuario_666,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+402,10,usuario_530,"Atención de primera, gracias",28,0.735,Positivo
+403,10,usuario_236,"Atención de primera, gracias",28,0.735,Positivo
+404,10,usuario_412,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+405,10,usuario_902,A qué hora abren los domingos,29,0.034,Negativo
+406,10,usuario_636,"Me encanta este lugar, muy cómodo",33,0.977,Positivo
+407,10,usuario_485,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+408,10,usuario_574,Carísimo para lo que es,23,0.01,Negativo
+409,10,usuario_739,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+410,10,usuario_281,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+411,10,usuario_279,A qué hora abren los domingos,29,0.034,Negativo
+412,10,usuario_955,"Atención de primera, gracias",28,0.735,Positivo
+413,10,usuario_384,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+414,10,usuario_765,"Buenísimo todo, lo recomiendo",29,0.978,Positivo
+415,10,usuario_568,El mejor café de la zona,24,0.914,Positivo
+416,10,usuario_948,"Qué lindo local, volvemos seguro",32,0.943,Positivo
+417,10,usuario_788,Muy buena onda los chicos del mostrador,39,0.961,Positivo
+418,10,usuario_162,Dónde queda esta sucursal,25,0.041,Negativo
+419,10,usuario_660,El capuccino estaba perfecto,28,0.886,Positivo
+420,10,usuario_835,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+421,10,usuario_534,Mucho ruido y las mesas sucias,30,0.004,Negativo
+422,10,usuario_417,"Muy ricas las medialunas, recién hechas",39,0.949,Positivo
+423,10,usuario_528,"Excelente atención, siempre vuelvo",34,0.803,Positivo
+424,10,usuario_118,El capuccino estaba perfecto,28,0.886,Positivo
+425,10,usuario_689,A qué hora abren los domingos,29,0.034,Negativo
